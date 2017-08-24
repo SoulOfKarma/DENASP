@@ -1,0 +1,10 @@
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionSueldo\Biblioteca\bin\Debug\Biblioteca.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionSueldo\Biblioteca\bin\Debug\Biblioteca.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionSueldo\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionSueldo\Biblioteca\obj\Debug\Biblioteca.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionSueldo\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionSueldo\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionSueldo\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionSueldo\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionSueldo\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\ricar\Desktop\Respaldo R sOTO\ASP\SolucionSueldo\Biblioteca\obj\Debug\Biblioteca.pdb

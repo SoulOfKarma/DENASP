@@ -1,0 +1,10 @@
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\Biblioteca\bin\Debug\Biblioteca.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\Biblioteca\bin\Debug\Biblioteca.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\Biblioteca\obj\Debug\Biblioteca.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\Alumno\Desktop\SolucionHolaWeb\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\Alumno\Desktop\SolucionHolaWeb\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Alumno\Desktop\SolucionHolaWeb\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\SolucionHolaWeb\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\Alumno\Desktop\SolucionHolaWeb\Biblioteca\obj\Debug\Biblioteca.pdb

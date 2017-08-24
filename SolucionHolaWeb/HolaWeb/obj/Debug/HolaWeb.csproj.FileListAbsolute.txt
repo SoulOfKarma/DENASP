@@ -1,0 +1,70 @@
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\HolaWeb\bin\ApplicationInsights.config
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\HolaWeb\bin\roslyn\csc.exe
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\HolaWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\HolaWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\HolaWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\HolaWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\HolaWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\HolaWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\HolaWeb\bin\roslyn\System.Collections.Immutable.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\HolaWeb\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\HolaWeb\bin\roslyn\vbc.exe
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\HolaWeb\bin\roslyn\VBCSCompiler.exe
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\HolaWeb\bin\roslyn\VBCSCompiler.exe.config
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\HolaWeb\bin\HolaWeb.dll.config
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\HolaWeb\bin\HolaWeb.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\HolaWeb\bin\HolaWeb.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\HolaWeb\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\HolaWeb\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\HolaWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\HolaWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\HolaWeb\bin\Microsoft.AI.Web.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\HolaWeb\bin\Microsoft.AI.WindowsServer.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\HolaWeb\bin\Microsoft.ApplicationInsights.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\HolaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\HolaWeb\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\HolaWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\HolaWeb\bin\Microsoft.AI.Web.xml
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\HolaWeb\bin\Microsoft.AI.WindowsServer.xml
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\HolaWeb\bin\Microsoft.ApplicationInsights.xml
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\HolaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\HolaWeb\obj\Debug\HolaWeb.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\HolaWeb\obj\Debug\HolaWeb.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\HolaWeb\obj\Debug\HolaWeb.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\HolaWeb\bin\Biblioteca.dll
+c:\users\alumno\documents\visual studio 2015\Projects\SolucionHolaWeb\HolaWeb\bin\Biblioteca.pdb
+C:\Users\Alumno\Desktop\SolucionHolaWeb\HolaWeb\bin\ApplicationInsights.config
+C:\Users\Alumno\Desktop\SolucionHolaWeb\HolaWeb\bin\roslyn\csc.exe
+C:\Users\Alumno\Desktop\SolucionHolaWeb\HolaWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alumno\Desktop\SolucionHolaWeb\HolaWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alumno\Desktop\SolucionHolaWeb\HolaWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alumno\Desktop\SolucionHolaWeb\HolaWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alumno\Desktop\SolucionHolaWeb\HolaWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alumno\Desktop\SolucionHolaWeb\HolaWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alumno\Desktop\SolucionHolaWeb\HolaWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alumno\Desktop\SolucionHolaWeb\HolaWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alumno\Desktop\SolucionHolaWeb\HolaWeb\bin\roslyn\vbc.exe
+C:\Users\Alumno\Desktop\SolucionHolaWeb\HolaWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alumno\Desktop\SolucionHolaWeb\HolaWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alumno\Desktop\SolucionHolaWeb\HolaWeb\bin\HolaWeb.dll.config
+C:\Users\Alumno\Desktop\SolucionHolaWeb\HolaWeb\bin\HolaWeb.dll
+C:\Users\Alumno\Desktop\SolucionHolaWeb\HolaWeb\bin\HolaWeb.pdb
+C:\Users\Alumno\Desktop\SolucionHolaWeb\HolaWeb\bin\Biblioteca.dll
+C:\Users\Alumno\Desktop\SolucionHolaWeb\HolaWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Alumno\Desktop\SolucionHolaWeb\HolaWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Alumno\Desktop\SolucionHolaWeb\HolaWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Alumno\Desktop\SolucionHolaWeb\HolaWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Alumno\Desktop\SolucionHolaWeb\HolaWeb\bin\Microsoft.AI.Web.dll
+C:\Users\Alumno\Desktop\SolucionHolaWeb\HolaWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Alumno\Desktop\SolucionHolaWeb\HolaWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Alumno\Desktop\SolucionHolaWeb\HolaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alumno\Desktop\SolucionHolaWeb\HolaWeb\bin\Biblioteca.pdb
+C:\Users\Alumno\Desktop\SolucionHolaWeb\HolaWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Alumno\Desktop\SolucionHolaWeb\HolaWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Alumno\Desktop\SolucionHolaWeb\HolaWeb\bin\Microsoft.AI.Web.xml
+C:\Users\Alumno\Desktop\SolucionHolaWeb\HolaWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Alumno\Desktop\SolucionHolaWeb\HolaWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Alumno\Desktop\SolucionHolaWeb\HolaWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alumno\Desktop\SolucionHolaWeb\HolaWeb\obj\Debug\HolaWeb.csprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\SolucionHolaWeb\HolaWeb\obj\Debug\HolaWeb.dll
+C:\Users\Alumno\Desktop\SolucionHolaWeb\HolaWeb\obj\Debug\HolaWeb.pdb
